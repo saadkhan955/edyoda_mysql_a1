@@ -1,0 +1,4 @@
+SELECT DISTINCT Salary
+FROM EmployeeSalary
+ORDER BY Salary DESC
+LIMIT 2, 1;
